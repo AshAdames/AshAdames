@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - ⚡ **I like working on hackathons and other volunteer coding events.**
 
-<table>
+<table align="center">
   <tr>
     <th>Primary Languages</th>
     <th>Frameworks and Other Skills</th>
