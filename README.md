@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ashley</h1>
-<h3 align="center">A passionate new graduate developer that wants to develop programs that help people.</h3>
+<h3 align="center">A passionate developer that likes developing projects that solve an issue or just do what i want :) </h3>
 
-- 🌱 I’m currently learning **ReactNative, Django, and Docker.**
+- 🌱 I’m currently learning **ReactNative, Python and Flask**
 
-- ⚡ **I like working on hackathons and other volunteer coding events.**
+- ⚡ **I like working on personal projects and online courses from MIT**
 
 <table align="center">
   <tr>
