@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactNative, Python and Flask**
 
-- ⚡ **I like working on personal projects and online courses from MIT**
+- ⚡ **I like working on personal projects**
 
 <table align="center">
   <tr>
