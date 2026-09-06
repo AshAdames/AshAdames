@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashley 👋</h1> 
+<h1 align="center">Hi, I'm Ashley </h1> 
 <h3 align="center"> Senior Software Engineer · C++ · Backend · Systems </h3> 
 
 <p align="center"> 
