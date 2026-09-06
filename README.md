@@ -33,31 +33,14 @@ A high-performance C++ feature vector store designed for low-latency retrieval a
 
 ### 🔍 Areas of Interest
 
-* Modern C++
 * Backend Engineering
-* Systems Programming
 * Operating Systems
-* Concurrency & Multithreading
 * Performance Engineering
 * Low-Level Programming
 * Distributed Systems & System Design
 
----
+### 📚 Currently Focused On
 
-### 🧪 What I'm Exploring
-
-I'm particularly interested in understanding what happens beneath the abstractions we normally work with — from memory management and CPU behavior to networking, concurrency, and operating-system internals.
-
-I enjoy turning that curiosity into small projects and experiments that help me understand systems more deeply and build better software.
-
----
-
-### 📚 Currently Learning
-
-* Operating system internals
-* Advanced C++ and modern language features
-* Lock-free and concurrent programming
-* Networking and distributed systems
 * CPU architecture, caching, and memory behavior
 * Performance profiling and optimization
 
