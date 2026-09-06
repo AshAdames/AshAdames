@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ashley</h1>
+<h1 align="center">Hi I'm Ashley</h1>
 
-<h3 align="center">Software Developer | C++ & Backend Engineering</h3>
+<h3 align="center">Senior Software Engineer | C++ & Backend Engineering</h3>
 
 <p align="center">
-  I enjoy building software, understanding how systems work under the hood, and optimizing code for performance and efficiency.
+  I enjoy building software, understanding how systems work under the hood, and optimizing code for performance and efficiency. Most of my work experience is centered around low latency systems. 
 </p>
 
 ---
