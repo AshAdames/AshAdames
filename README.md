@@ -15,37 +15,6 @@
 * 🧠 Deepening my knowledge of operating systems, concurrency, networking, and system design
 * 🔨 Building personal projects to experiment, learn, and understand how things work under the hood
 
----
-
-### 🛠️ Languages & Technologies
-
-<table align="center"> 
-  <tr> 
-    <th>Languages</th> 
-    <th>Backend</th> 
-    <th>Systems & Tools</th> 
-  </tr> 
-  <tr> 
-    <td align="center"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQL"/> 
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="45" height="45" alt="CMake"/>
-    </td>
-  </tr> 
-</table>
-
----
-
 ### ⭐ Featured Project
 
 #### ⚡ High-Performance Feature Vector Store
