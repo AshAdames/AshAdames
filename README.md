@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-* 💻 Primarily working with **C++** and **Python**
-* ⚙️ Building backend systems and performance-critical software
-* 🚀 Focused on low-latency systems, optimization, and efficient algorithms
-* 🧠 Deepening my knowledge of operating systems, concurrency, networking, and system design
-* 🔨 Building personal projects to experiment, learn, and understand how things work under the hood
+* Primarily working with **C++** and **Python**
+* Building backend systems and performance-critical software
+*  Focused on low-latency systems, optimization, and efficient algorithms
+*  Deepening my knowledge of operating systems, concurrency, networking, and system design
+* Building personal projects to experiment, learn, and understand how things work under the hood
 
 ### ⭐ Featured Project
 
@@ -21,11 +21,11 @@
 A high-performance C++ feature vector store designed for low-latency retrieval and similarity search, with an emphasis on concurrency, memory efficiency, and measurable performance.
 
 **Highlights:**
-* ⚡ Cache-friendly data structures and performance-oriented memory access
-* 🚀 SIMD acceleration for performance-critical operations
-* 🧵 Thread-safe concurrent reads and writes
-* 🔒 Optimized locking and synchronization
-* 📊 Benchmarking and performance analysis across workloads
+* Cache-friendly data structures and performance-oriented memory access
+* SIMD acceleration for performance-critical operations
+* Thread-safe concurrent reads and writes
+* Optimized locking and synchronization
+* Benchmarking and performance analysis across workloads
 
 **Tech Stack:** `C++` · `Linux` · `CMake` · `SIMD` · `Multithreading`
 
